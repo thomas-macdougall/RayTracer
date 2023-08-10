@@ -1,0 +1,1 @@
+clang++ -std=c++11  -o main34 main_lab34.cpp photon_material.cpp framebuffer.cpp scene.cpp polymesh_object.cpp sphere_object.cpp plane_object.cpp directional_light.cpp phong_material.cpp falsecolour_material.cpp simple_camera.cpp full_camera.cpp hit.cpp Global_Material.cpp csg_object.cpp compound_material.cpp quadratic_object.cpp point_light.cpp p_scene.cpp photon.cpp
